@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hello
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: '### New Beginnings'
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
