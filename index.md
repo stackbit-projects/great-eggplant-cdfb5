@@ -63,9 +63,6 @@ seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
     - name: 'og:title'
       value: Stackbit Vanilla Theme
       keyName: property
