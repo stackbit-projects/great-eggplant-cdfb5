@@ -59,6 +59,5 @@ sections:
       ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
-
 layout: advanced
 ---
